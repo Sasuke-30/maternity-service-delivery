@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: maternity-service-delivery
+    env: docker
+    plan: free
+    autoDeploy: true
+
