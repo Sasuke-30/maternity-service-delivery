@@ -41,3 +41,6 @@ This repo includes:
 
 Render will expose the app on a public URL after deployment.
 
+After deployment, the API browser (Swagger UI) is available at:
+- `/swagger-ui/index.html`
+
